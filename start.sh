@@ -179,7 +179,7 @@ fi
 
 # Output Dashboard access address and Secret
 echo ''
-echo -e "Clash Dashboard 访问地址: http://<ip>:9090/ui"
+echo -e "Clash Dashboard 访问地址: http://clash.razord.top"
 echo -e "Secret: ${Secret}"
 echo ''
 

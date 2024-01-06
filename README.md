@@ -35,8 +35,10 @@ $ cd clash-for-linux
 $ vim .env
 ```
 # Clash 订阅地址
+```bash
 $ export CLASH_URL=''
 $ export CLASH_SECRET=''
+```
 
 > **注意：** `.env` 文件中的变量 `CLASH_SECRET` 为自定义 Clash Secret，值为空时，脚本将自动生成随机字符串。
 
